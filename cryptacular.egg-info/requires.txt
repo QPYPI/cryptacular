@@ -1,0 +1,6 @@
+pbkdf2
+setuptools
+
+[test]
+nose
+coverage
